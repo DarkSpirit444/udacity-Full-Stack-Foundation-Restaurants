@@ -1,3 +1,3 @@
-udacity Full Stack Foundation Puppy Shelter Restaurant Project
-==============================================================
-Restaurant project using SQLLite through Flask
+udacity Full Stack Foundation Restaurant Project
+================================================
+Restaurant project using SQLLite through Flask + Python
